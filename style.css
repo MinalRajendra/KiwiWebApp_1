@@ -1,0 +1,35 @@
+html, body
+{
+  height: 100%;
+  margin: 0;
+}
+
+body
+{
+background-image: linear-gradient(to right top, #0e6319, #0e6319, #0e6319, #0e6319,  #0e691a);
+}
+
+.header
+{
+	color: rgb(55, 255, 131);font-family: 'Yeon Sung';font-size: 80px;letter-spacing: 10px;margin-top: 80px; border-color: rgb(249, 252, 216);
+}
+.header img
+{
+	width: 80px;margin-left: -15px;
+}
+
+.login_div
+{
+	background: rgba(213, 253, 179, 0.712);float: none;border-radius: 15px;
+}
+
+.logo
+{
+	width: 80px;margin-top: 30px;border-radius: 40px;
+}
+
+#login_button
+{
+    width: 80%;border-radius: 15px;
+    color: antiquewhite;
+}
